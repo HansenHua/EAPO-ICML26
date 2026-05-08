@@ -58,26 +58,6 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-The code allows for 
-```
---dataset The name of the dataset.
---method The name of the method.
---model The backbone model name.
---model_path Path to the model checkpoint.
---generator_path Path to the context generator.
---num Number of agents.
---max_rounds Maximum number of debating rounds.
---seed Random seed.
---n Number of chat completion candidates.
---temperature Sampling temperature, in range [0, 2].
---alpha Alpha coefficient.
---beta Beta coefficient.
---max_completion_tokens Maximum number of completion tokens.
---top_k Top-k combinations selected.
---contribution_threshold Threshold for agent contribution filtering.
---process_num Number of parallel processes.
---train_rounds Maximum number of training rounds.
-```
 
 ## 📝 Citation
 If you find our paper and code useful in your research, please consider giving a star ⭐ and citation 📝 :)
