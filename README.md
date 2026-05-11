@@ -12,6 +12,7 @@
 - [2026-2-5] We publish the paper on huggingface.
 - [2026-2-4] We open-source the code for training.
 - [2026-2-3] We publish the paper on arxiv. -->
+- [2026-2-5] We release the model on huggingface
 - [2026-5-1] This paper was accepted by ICML'26
 
 ## 🔨 TODO
