@@ -16,9 +16,7 @@
 - [2026-5-1] This paper was accepted by ICML'26
 
 ## 🔨 TODO
-- [ ] Polish the codebase.
-- [ ] Merge with the latest verl version.
-- [ ] Release the model checkpoint.
+- [ ] Release the code.
 
 ## 🚀 Quick Start
 
