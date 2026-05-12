@@ -63,5 +63,11 @@ python main.py
 If you find our paper and code useful in your research, please consider giving a star ⭐ and citation 📝 :)
 
 ```bibtex
-
+@inproceedings{
+hua2026learning,
+title={Learning to Explore: Scaling Agentic Reasoning via Exploration-Aware Policy Optimization},
+author={Xingyuan Hua and Sheng Yue and Ju Ren},
+booktitle={The Forty-third International Conference on Learning Representations},
+year={2026}
+}
 ```
