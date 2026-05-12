@@ -1,6 +1,6 @@
 # Learning to Explore: Scaling Agentic Reasoning via Exploration-Aware Policy Optimization
 <p align="center">
-&nbsp&nbsp🌐 <a href="https://xingyuan-project.github.io/m2cl.github.io/">Website</a>&nbsp&nbsp | &nbsp&nbsp📑 <a href=>arXiv</a>&nbsp&nbsp | &nbsp&nbsp🤖 <a href="https://huggingface.co/hansenhua/EAPO-ICML26">Model</a>&nbsp&nbsp | &nbsp&nbsp🤗 <a href="https://huggingface.co/hansenhua/EAPO-ICML26">Hugging Face</a>&nbsp&nbsp
+&nbsp&nbsp🌐 <a href="https://xingyuan-project.github.io/m2cl.github.io/">Website</a>&nbsp&nbsp | &nbsp&nbsp📑 <a href=https://arxiv.org/abs/2605.08978>arXiv</a>&nbsp&nbsp | &nbsp&nbsp🤖 <a href="https://huggingface.co/hansenhua/EAPO-ICML26">Model</a>&nbsp&nbsp | &nbsp&nbsp🤗 <a href="https://huggingface.co/hansenhua/EAPO-ICML26">Hugging Face</a>&nbsp&nbsp
 </p>
 
 <p align="center">
@@ -12,7 +12,8 @@
 - [2026-2-5] We publish the paper on huggingface.
 - [2026-2-4] We open-source the code for training.
 - [2026-2-3] We publish the paper on arxiv. -->
-- [2026-2-5] We release the model on huggingface
+- [2026-5-12] We publish the paper on arxiv
+- [2026-5-11] We release the model on huggingface
 - [2026-5-1] This paper was accepted by ICML'26
 
 ## 🔨 TODO
