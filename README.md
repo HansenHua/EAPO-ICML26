@@ -59,6 +59,11 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## Performance
+<p align="center">
+  <img src="performance.png" alt="EAPO">
+</p>
+
 ## 📝 Citation
 If you find our paper and code useful in your research, please consider giving a star ⭐ and citation 📝 :)
 
