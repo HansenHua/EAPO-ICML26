@@ -61,7 +61,7 @@ python main.py
 
 ## Performance
 <p align="center">
-  <img src="performance.png" alt="EAPO">
+  <img src="performance.jpg" alt="EAPO">
 </p>
 
 ## 📝 Citation
